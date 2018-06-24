@@ -1,0 +1,4 @@
+flask/
+*.pyc
+venv/
+nohup.out
